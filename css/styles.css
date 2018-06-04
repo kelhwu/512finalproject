@@ -1,0 +1,48 @@
+.background {
+    background-color: #F5C441;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+#animation-select {
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.masthead {
+    display: table;
+    width: 100%;
+    padding-top: 6rem;
+}
+
+.masthead h1 {
+    font-size: 5.5rem;
+    margin: 0;
+    padding: 0
+}
+
+.p {
+    margin-bottom: 3rem;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.5rem;
+}
+
+.p2 {
+    font-family: Helvetica;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.em {
+    display: table;
+    width: 48%;
+    margin-bottom: 30px;
+    margin-left: 310px;
+}
